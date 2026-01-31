@@ -1,0 +1,15 @@
+   public class demographics
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine ("Student ID      :   24963852                    ");
+            Console.WriteLine ("Full Name       :   Andy A. Sixto               ");
+            Console.WriteLine ("Nick Name       :   Ting                        ");
+            Console.WriteLine ("Gender          :   Male                        "); 
+            Console.WriteLine ("Year level      :   2nd year                    "); 
+            Console.WriteLine ("Home Location   :   Cubacub Mandaue City        ");
+            Console.WriteLine ("Course          :   BSIT                        ");
+            Console.WriteLine ("Mobile No.      :   09453950249                 ");
+            Console.WriteLine ("Personal Email  :   zerruandy62@gmail.com       ");
+        }
+    }
